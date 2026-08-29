@@ -1,0 +1,27 @@
+{
+  "name": "remotion-fabrica-cortes-traduzido",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render",
+    "render-all": "node scripts/render-all.js",
+    "traduzir": "node scripts/traduzir.js",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.0",
+    "@remotion/media-utils": "4.0.0",
+    "@remotion/player": "4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.0",
+    "translate": "^3.0.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/web": "^0.0.143",
+    "typescript": "^5.5.4"
+  }
+}
