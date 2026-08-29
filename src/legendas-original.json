@@ -1,0 +1,17 @@
+{
+  "corte-01": [
+    { "texto": "You won't believe this!", "inicioSeg": 0, "duracaoSeg": 3 },
+    { "texto": "This tip changed my life", "inicioSeg": 4, "duracaoSeg": 4 },
+    { "texto": "Share with someone who needs it", "inicioSeg": 9, "duracaoSeg": 3 }
+  ],
+  "corte-02": [
+    { "texto": "His reaction was INCREDIBLE", "inicioSeg": 0, "duracaoSeg": 3 },
+    { "texto": "Nobody saw this coming", "inicioSeg": 4, "duracaoSeg": 4 },
+    { "texto": "Follow for more!", "inicioSeg": 10, "duracaoSeg": 3 }
+  ],
+  "corte-03": [
+    { "texto": "The plot twist that surprised everyone", "inicioSeg": 0, "duracaoSeg": 4 },
+    { "texto": "Did you see this coming?", "inicioSeg": 5, "duracaoSeg": 3 },
+    { "texto": "Comment below!", "inicioSeg": 10, "duracaoSeg": 3 }
+  ]
+}
